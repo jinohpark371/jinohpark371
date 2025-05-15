@@ -3,7 +3,7 @@
 ## 🛠️ 기술 스택
 - javascript
 - react
-- [html
+- html
 - css
 
 
