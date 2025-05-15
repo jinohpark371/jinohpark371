@@ -10,3 +10,5 @@
 | 프로젝트명 | 설명 | 주요 기술 |
 | ---------- | ---- | -------- |
 | **Photomory** | 사진 공유 기반 웹 서비스 (React + SpringBoot) | React, SpringBoot, MySQL |
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=89CFF0&height=200&section=footer&flip=true)
