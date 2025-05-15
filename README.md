@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,89CFF0,4682B4&height=120&section=header)
 #  안녕하세요, 박진오입니다!
 
 ## 🛠️ 기술 스택
@@ -11,4 +12,4 @@
 | ---------- | ---- | -------- |
 | **Photomory** | 사진 공유 기반 웹 서비스 (React + SpringBoot) | React, SpringBoot, MySQL |
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=89CFF0&height=200&section=footer&flip=true)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,89CFF0,4682B4&height=120&section=footer&flip=true)
