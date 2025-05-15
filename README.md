@@ -1,20 +1,12 @@
 # 👋 안녕하세요, 박진오입니다!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jinopark&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jinopark)
 
-🎯 **웹 프론트엔드 개발자**를 목표로 공부하고 있는 컴퓨터공학과 학생입니다.  
-React 기반의 프로젝트를 통해 사용자 친화적인 UI를 만드는 데에 집중하고 있어요.  
 
 ---
 
 ## 🛠️ 기술 스택
 
-- 💻 **Frontend**: HTML, CSS, JavaScript(ES6+), React
-- 🎨 **Style**: Styled-components, Tailwind CSS, CSS Modules
-- 🔧 **Tools**: Git, VS Code, Figma
-- 📁 **Version Control**: GitHub, GitHub Desktop
-- 🌐 **협업**: Notion, Figma, Trello 등
-
+<a href="https://github.com/haileeLog" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 ---
 
 ## 💡 경험 및 프로젝트
