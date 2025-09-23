@@ -6,6 +6,10 @@
  ![]( https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinoh1030)](https://solved.ac/백준아이디/)
+
+
 ## 💡프로젝트
 
 | 프로젝트명 | 설명 | 주요 기술 |
