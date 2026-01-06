@@ -19,7 +19,6 @@
 | **Photomory** | 사진 공유 기반 웹 서비스 (React + SpringBoot) | React, SpringBoot, MySQL |
 
 ## 📚 경험
-- 부경대학교 **WAP 동아리** 활동 중 (Web Application Programming)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,89CFF0,4682B4&height=120&section=footer&flip=true)
