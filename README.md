@@ -17,7 +17,7 @@
 | 프로젝트명 | 설명 | 링크 |
 | ---------- | ---- | -------- |
 | **Photomory** | 사진 공유 기반 웹 서비스 (React + SpringBoot) |[🔗Photomory](https://github.com/pknu-wap/2025_1_web6_photomory.git) |
-| **SnapBook** | 실시간 채팅과 예약 기능을 중심으로 한 웹 서비스. 예약 상태 메시지 처리, 실시간 소켓 통신, 스크롤 유지 등 사용자 흐름을 고려한 UI/UX를 직접 설계하고 구현 | [🔗SnapBook](https://github.com/WAP-SNAPBOOK/FE.git) |
+| **SnapBook** | 실시간 채팅과 예약 기능을 중심으로 한 웹 서비스. | [🔗SnapBook](https://github.com/WAP-SNAPBOOK/FE.git) |
 
 
 ## 📚 경험
