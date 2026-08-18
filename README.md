@@ -13,13 +13,29 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinoh1030)](https://solved.ac/백준아이디/)
 
 
-## 💡프로젝트
+## 💡 Projects
 
-| 프로젝트명 | 설명 | 링크 |
-| ---------- | ---- | -------- |
-| **Photomory** | 사진 공유 기반 웹 서비스 (React + SpringBoot) |[🔗Photomory](https://github.com/pknu-wap/2025_1_web6_photomory.git) |
-| **SnapBook** | 실시간 채팅과 예약 기능을 중심으로 한 웹 서비스. | [🔗SnapBook](https://github.com/WAP-SNAPBOOK/FE.git) |
+### [Photomory](https://github.com/pknu-wap/2025_1_web6_photomory)
 
+사진 공유 기반 웹 서비스
+
+- **Frontend Developer**
+- React 기반 프론트엔드 개발
+- 사진 업로드 및 공유 기능 구현
+- 백엔드 API 연동 및 사용자 인터페이스 구현
+- **Tech:** React, JavaScript, Spring Boot, JPA
+
+### [SnapBook](https://github.com/WAP-SNAPBOOK/FE)
+
+실시간 채팅과 예약 기능을 중심으로 한 네일샵 예약 플랫폼
+
+- **Frontend Developer**
+- 실시간 채팅 및 예약 기능 구현
+- 예약 상태에 따른 UI 및 데이터 관리
+- React Query를 활용한 서버 상태 관리
+- Mock API를 활용한 프론트엔드 기능 개발 및 테스트
+- PWA 기반 모바일 환경 지원
+- **Tech:** React, JavaScript, React Query, styled-components, Tailwind CSS, Mock API
 
 ## 📚 경험
 
